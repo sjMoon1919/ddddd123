@@ -44,3 +44,4 @@ footer{background:#152c3dd9}.brand,.private,.toolbar>label,footer strong,footer 
 .committee-card:hover{background:#d4e2eb}.committee-card strong{font-size:18px;word-break:keep-all}.committee-card>span{font-size:13px;display:flex;justify-content:space-between;color:#526a7b}
 .doc>div:first-child{min-width:0}.doc h3,.doc .meta{overflow-wrap:anywhere}.doc .actions{flex-shrink:0}.page-navigation{flex-wrap:wrap}.compilation-section .empty{padding:26px 16px}
 @media(max-width:800px){.committee-grid{grid-template-columns:1fr}.committee-card{gap:12px}.doc{align-items:flex-start;flex-direction:column}.doc .actions{width:100%}}
+header{gap:14px;flex-wrap:wrap}.community-link{color:#f0e3d0;text-underline-offset:5px}
